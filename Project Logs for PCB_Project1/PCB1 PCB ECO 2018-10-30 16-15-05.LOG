@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PWM Pin=P3-3
+Removed Pin From Net: NetName=MINC Pin=P3-4
+Removed Pin From Net: NetName=MDEC Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P3-6
+Change Component DesignItemId : Designator=P3 Old DesignItemId=HDR1x6_2.54 New DesignItemId=HDR1x3_2.54
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X6_2.54_180 New Footprint=HDR1X3_2.54_180
+Change Component Comment : Designator=P3 Old Comment=HDR1x6_2.54 New Comment=HDR1x3_2.54
+Added Component: Designator=P4(HDR1X3_2.54_180)
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=PWM Pin=P4-1
+Added Pin To Net: NetName=MINC Pin=P4-2
+Added Pin To Net: NetName=MDEC Pin=P4-3
+Added Member To Class: ClassName=Sheet Member=Component P4 HDR1x3_2.54

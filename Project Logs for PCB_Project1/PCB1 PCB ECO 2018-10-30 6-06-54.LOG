@@ -1,0 +1,110 @@
+Added Component: Designator=AS(AS5040)
+Added Component: Designator=C1(CAP_0603)
+Added Component: Designator=C2(CAP_0603)
+Added Component: Designator=C3(CAP_0603)
+Added Component: Designator=Mos1(Nmos_SOT23)
+Added Component: Designator=Mos2(Nmos_SOT23)
+Added Component: Designator=Mos3(Nmos_SOT23)
+Added Component: Designator=P1(HDR1X5_2.54_180)
+Added Component: Designator=P2(HDR1X5_2.54_180)
+Added Component: Designator=P3(HDR1X6_2.54_180)
+Added Component: Designator=R1(RES_0603)
+Added Component: Designator=R2(RES_0603)
+Added Component: Designator=R3(RES_0603)
+Added Component: Designator=R4(RES_0603)
+Added Component: Designator=R5(RES_0603)
+Added Component: Designator=R6(RES_0603)
+Added Component: Designator=R7(RES_0603)
+Added Component: Designator=R8(RES_0603)
+Added Component: Designator=R9(RES_0603)
+Added Component: Designator=R10(RES_0603)
+Added Component: Designator=R11(RES_0603)
+Added Pin To Net: NetName=3V3 Pin=AS-15
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=AS-16
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=P1-1
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=7.5V Pin=P3-1
+Added Pin To Net: NetName=7.5V Pin=R7-1
+Added Net: Name=7.5V
+Added Pin To Net: NetName=AO Pin=C3-2
+Added Pin To Net: NetName=AO Pin=P2-4
+Added Pin To Net: NetName=AO Pin=R9-2
+Added Net: Name=AO
+Added Pin To Net: NetName=A Pin=AS-3
+Added Pin To Net: NetName=A Pin=P2-2
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=AS-4
+Added Pin To Net: NetName=B Pin=P2-3
+Added Net: Name=B
+Added Pin To Net: NetName=CLK_IN Pin=Mos2-S
+Added Pin To Net: NetName=CLK_IN Pin=P1-3
+Added Pin To Net: NetName=CLK_IN Pin=R6-2
+Added Net: Name=CLK_IN
+Added Pin To Net: NetName=CLK Pin=AS-10
+Added Pin To Net: NetName=CLK Pin=Mos2-D
+Added Pin To Net: NetName=CLK Pin=R2-2
+Added Net: Name=CLK
+Added Pin To Net: NetName=CSN_IN Pin=Mos1-S
+Added Pin To Net: NetName=CSN_IN Pin=P1-2
+Added Pin To Net: NetName=CSN_IN Pin=R5-2
+Added Net: Name=CSN_IN
+Added Pin To Net: NetName=CSN Pin=AS-11
+Added Pin To Net: NetName=CSN Pin=Mos1-D
+Added Pin To Net: NetName=CSN Pin=R1-2
+Added Net: Name=CSN
+Added Pin To Net: NetName=DO Pin=AS-9
+Added Pin To Net: NetName=DO Pin=P1-4
+Added Net: Name=DO
+Added Pin To Net: NetName=GND Pin=AS-7
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Net: Name=GND
+Added Pin To Net: NetName=I Pin=AS-6
+Added Net: Name=I
+Added Pin To Net: NetName=MDEC Pin=AS-2
+Added Pin To Net: NetName=MDEC Pin=P3-5
+Added Net: Name=MDEC
+Added Pin To Net: NetName=MINC Pin=AS-1
+Added Pin To Net: NetName=MINC Pin=P3-4
+Added Net: Name=MINC
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R8-2
+Added Pin To Net: NetName=NetC2_2 Pin=R9-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetMos1_G Pin=Mos1-G
+Added Pin To Net: NetName=NetMos1_G Pin=R3-2
+Added Net: Name=NetMos1_G
+Added Pin To Net: NetName=NetMos2_G Pin=Mos2-G
+Added Pin To Net: NetName=NetMos2_G Pin=R4-2
+Added Net: Name=NetMos2_G
+Added Pin To Net: NetName=NetMos3_G Pin=Mos3-G
+Added Pin To Net: NetName=NetMos3_G Pin=R10-2
+Added Net: Name=NetMos3_G
+Added Pin To Net: NetName=PROG_IN Pin=Mos3-S
+Added Pin To Net: NetName=PROG_IN Pin=R11-2
+Added Net: Name=PROG_IN
+Added Pin To Net: NetName=PROG Pin=AS-8
+Added Pin To Net: NetName=PROG Pin=Mos3-D
+Added Pin To Net: NetName=PROG Pin=P3-2
+Added Pin To Net: NetName=PROG Pin=R7-2
+Added Net: Name=PROG
+Added Pin To Net: NetName=PWM Pin=AS-12
+Added Pin To Net: NetName=PWM Pin=P3-3
+Added Pin To Net: NetName=PWM Pin=R8-1
+Added Net: Name=PWM
+Added Class: Name=Sheet

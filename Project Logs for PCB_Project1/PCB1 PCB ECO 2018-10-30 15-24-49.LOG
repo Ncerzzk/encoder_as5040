@@ -1,0 +1,15 @@
+Added Component: Designator=AS(AS5040)
+Added Pin To Net: NetName=MINC Pin=AS-1
+Added Pin To Net: NetName=MDEC Pin=AS-2
+Added Pin To Net: NetName=A Pin=AS-3
+Added Pin To Net: NetName=B Pin=AS-4
+Added Pin To Net: NetName=I Pin=AS-6
+Added Pin To Net: NetName=GND Pin=AS-7
+Added Pin To Net: NetName=PROG Pin=AS-8
+Added Pin To Net: NetName=DO Pin=AS-9
+Added Pin To Net: NetName=CLK Pin=AS-10
+Added Pin To Net: NetName=CSN Pin=AS-11
+Added Pin To Net: NetName=PWM Pin=AS-12
+Added Pin To Net: NetName=3V3 Pin=AS-15
+Added Pin To Net: NetName=5V Pin=AS-16
+Added Member To Class: ClassName=Sheet Member=Component AS AS5040
