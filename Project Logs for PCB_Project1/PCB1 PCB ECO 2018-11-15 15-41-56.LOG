@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=I Pin=R5-1
+Removed Pin From Net: NetName=PWM Pin=R5-2
+Removed Pin From Net: NetName=PWM Pin=R8-2
+Removed Member From Class: ClassName=Sheet Member=R5
+Removed Member From Class: ClassName=Sheet Member=R8
+Added Pin To Net: NetName=PWM Pin=AS1-8
